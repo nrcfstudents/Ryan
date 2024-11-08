@@ -1,7 +1,7 @@
 body{
  	color: yellow;
 	font-family:arial;
-	background-color: blue;
+	background-color: green;
 }
  {
 	textalign:left;
@@ -17,4 +17,14 @@ h1{
 
 h2{
 	color:white;
+}
+
+table,th,td{border:1px solid red;
+	width:10%;
+}
+nav{text-align:center;
+	justify-content:center;
+	padding:0;
+	margin:0;
+	font-weiht:bold;
 }
