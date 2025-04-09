@@ -1,0 +1,77 @@
+body
+ 	color: yellow
+	font-family
+    
+}
+ {
+	textalign:left;
+}
+
+h1{
+	text-align:center;
+ 	color:yellow;
+}
+.second{
+	text-align:left;
+}
+
+h2{
+	color:red;
+}
+
+table,th,td{border:1px solid red;
+	width:10%;
+}
+nav{text-align:center;
+	justify-content:center;
+	padding:0;
+	margin:0;
+	font-weiht:bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .display flex{
+ background: blue;
+ color: #333;
+ display: flex;
+ gap: 15px;
+ padding: 15px;
+
+ }
+ project h2{
+ color:blue;
+  margin-bottom: 8px;
+  
+}

@@ -1,30 +1,21 @@
-body{
- 	color: yellow;
-	font-family:arial;
-	background-color: green;
-}
- {
-	textalign:left;
-}
+ .display flex{
+ 	background: red;
+ 	color: #333;
+ 	display:flex ;
+ 	gap: 15px;
+ 	padding: 15px;
 
-h1{
-	text-align:center;
- 	color:yellow;
+ }
+ .project h2{
+ 	color: red;
+ 	margin-bottom: 8px;
+ }
+ .project p}
+ color:blue:10;
 }
-.scorpion{
-	text-align:left;
-}
-
-h2{
-	color:white;
-}
-
-table,th,td{border:1px solid red;
-	width:10%;
-}
-nav{text-align:center;
-	justify-content:center;
-	padding:0;
-	margin:0;
-	font-weiht:bold;
-}
+project-link{
+	background: red;
+	color: green;
+	border-radius: 5px;
+	width: 100px;
+	height: 100px;
